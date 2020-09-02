@@ -1,0 +1,38 @@
+H3 {display: inline;}
+    #account {
+
+    padding: 15px;
+    background-color: white;
+        border-radius: 1.5em;
+    box-shadow: 10px 10px 5px grey;
+      margin: 20px;
+}
+ex  {
+  margin-left: 30px;
+}
+.back{
+ background-color:#62bb46;
+}
+.label {
+  color: white;
+  padding: 8px;
+  font-family: Arial;
+}
+
+.info {background-color: #2196F3;} /* Blue */
+
+.greenbutton {
+      background-color: #62bb46;
+      color:white;
+}
+ 
+    H3 {display: inline;}
+    #account {
+
+    padding: 15px;
+    background-color: white;
+        border-radius: 1.5em;
+    box-shadow: 10px 10px 5px grey;
+      margin: 20px;
+}
+
